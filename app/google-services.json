@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466851745827",
+    "project_id": "time2travel-fe4c0",
+    "storage_bucket": "time2travel-fe4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466851745827:android:1690e9e225e8b9185ea196",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfYTIlGBmf3aYDR7sfYDn0yYlYN3jvwYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

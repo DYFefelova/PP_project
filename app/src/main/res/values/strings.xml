@@ -1,7 +1,29 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="apps_name">My Application</string>
     <string-array name="options">
         <item>Выбор отдыха</item>
         <item>Погода</item>
     </string-array>
+
+
+
+    <string name="app_name">todolist</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="note_text">Введите текст заметки</string>
+    <string name="note_details_title">Заметка</string>
+    <string name="save">Сохранить</string>
+    <string name="completed">Выполнение</string>
+
+    <string name="create_account_button">Create Account</string>
+    <string name="text_login">Login</string>
+    <string name="hint_password">password</string>
+    <string name="hint_email">email</string>
+    <string name="hello_it_s_time_to_travel">Hello! It\'s time to Travel</string>
+    <string name="registration_text">Registration!</string>
+    <string name="hint_email_register">email</string>
+    <string name="password_hint_regicter">password</string>
+    <string name="register_text_register">Register</string>
+    <string name="text_logout">Log out</string>
 </resources>
+
